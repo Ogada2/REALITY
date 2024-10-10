@@ -1,0 +1,29 @@
+body {
+    background: url('https://bit.ly/4dK1ebF') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+header, footer {
+    padding: 20px;
+}
+
+.niche-group {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+a {
+    color: #00ffcc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffcc00;
+    text-decoration: underline;
+}
